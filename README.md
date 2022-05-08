@@ -1,3 +1,3 @@
-Resposnive Website
+Responsive Website
 
 A responsive website made with Bootstrap, HTML, CSS and Javascript
