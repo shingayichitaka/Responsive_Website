@@ -1,18 +1,13 @@
 # Responsive-web-design-Website
-**Mandatory Task!**
 
-Dear Interns,
+Please see the link below to my completed task.
 
-The task is to completely modify/customize this bootstrap project. Use your creativity to write your first very own website with Responsive web design(RWD).
+Please ensure that the project is opened using either a live server such as Ritwicky's extension on VScode or nodeJs inorder for the resources and assets to be located properly.
 
-**Your website should must contain:**
-* 5 Sections. (i-e Services,Portfolio, About etc)
-* Information about your past coding activity/projects.
-* Information about your academics (i-e Academic story,history,experience in uni etc)
-* Your favourites (i-e The preference on your favourites Activities, Food, Sports etc)
+Upon opening the file, this is what should be seen:
 
-You can manage to adjust the above points in the website sections.
+image.png
 
-Should you have questions do not hesitate to contact us. We are open 24/7.
+Here is the link to the repo: https://github.com/shingayichitaka/Responsive_Website
 
-(email: TechLead@LimeLightR.org)
+Please let me know if you have any questions or concerns, or need something altered inorder to better fit your needs.
